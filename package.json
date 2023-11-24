@@ -1,0 +1,23 @@
+{
+  "name": "cypressjenkins",
+  "version": "1.0.0",
+  "description": "trying to build a cypress pipeline with jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-griffiths-2i/CardsPipelineTest.git"
+  },
+  "keywords": [
+    "pipeline",
+    "cypress"
+  ],
+  "author": "Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-griffiths-2i/CardsPipelineTest/issues"
+  },
+  "homepage": "https://github.com/michael-griffiths-2i/CardsPipelineTest#readme"
+}
